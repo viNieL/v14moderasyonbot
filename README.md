@@ -1,4 +1,6 @@
-# v14moderasyonbot
+# 📌 v14 Moderasyon Botu 
+
+Para İle Asla Satılamaz.
 
 # ⬇️ Hakkımda ⬇️
 
@@ -31,5 +33,8 @@ Bana Aittir İzinsiz Çalınması Yasaktır.
 
 MIT lisansı Bulunur.
 
+# ❤ Ek Bilgi
+
 ⭐ Projeye Star Atırsanız Sevinirim
+
 
