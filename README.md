@@ -2,34 +2,34 @@
 
 # ⬇️ Hakkımda ⬇️
 
-# 👋 Merhaba Ben viNieL 3 Yıldır Bot Kodluyorum Bu Konuda Kendimi Geliştiriyorum
+👋 Merhaba Ben viNieL 3 Yıldır Bot Kodluyorum Bu Konuda Kendimi Geliştiriyorum
 
-# 🌐 Sosyal Medya Hesaplarım
+🌐 Sosyal Medya Hesaplarım
 
-# ✅ Discord : viNieL#3271
+✅ Discord : viNieL#3271
 
-# ✅ İnstagram : vortix_05
+✅ İnstagram : vortix_05
 
-# ✅ Destek İçin : vortixiletisim@gmail.com 
+✅ Destek İçin : vortixiletisim@gmail.com 
 
 
 # 🚀 Kurulum
 
-# Terminali Açın npm i yazın ve Tüm Mödülleri Yükleyin.
+Terminali Açın npm i yazın ve Tüm Mödülleri Yükleyin.
 
-# config.json doldurun ayrıca MongoDB url girin.
+config.json doldurun ayrıca MongoDB url girin.
 
 # 📄 Kısa Bilgi
 
-# Botunuzun Tokeninizin Çalınmasına İstemiyorsanız | index.js dosyasından clinet.login(process.env.TOKEN) girin
+Botunuzun Tokeninizin Çalınmasına İstemiyorsanız | index.js dosyasından clinet.login(process.env.TOKEN) girin
 
-# .env Dosyası Oluşturun İlk Satıra TOKEN İkinci Satıra Botun Tokenini Girin.
+.env Dosyası Oluşturun İlk Satıra TOKEN İkinci Satıra Botun Tokenini Girin.
 
 # 📃 Lisans
 
-# Bana Aittir İzinsiz Çalınması Yasaktır.
+Bana Aittir İzinsiz Çalınması Yasaktır.
 
-# MIT lisansı Bulunur.
+MIT lisansı Bulunur.
 
-# ⭐ Projeye Star Atırsanız Sevinirim
+⭐ Projeye Star Atırsanız Sevinirim
 
