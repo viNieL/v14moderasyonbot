@@ -23,7 +23,7 @@ config.json doldurun ayrıca MongoDB url girin.
 
 # 📄 Kısa Bilgi
 
-Botunuzun Tokeninizin Çalınmasına İstemiyorsanız | index.js dosyasından clinet.login(process.env.TOKEN) girin
+Botunuzun Tokeninizin Çalınmasına İstemiyorsanız | index.js dosyasından client.login(process.env.TOKEN) girin
 
 .env Dosyası Oluşturun İlk Satıra TOKEN İkinci Satıra Botun Tokenini Girin.
 
